@@ -40,8 +40,3 @@ npm run dev
 
 Open the URL printed by Vite (usually http://localhost:5173).
 
-## Notes
-- Register a user, then create a tournament.
-- For this starter, any logged-in user can create tournaments and score projects. Before final submission, add role-based permissions for Admin, Organizer, Participant, and Judge.
-- Do not use real passwords or secrets in a school demo.
-- Repository URLs are stored and displayed; commit timestamps are not proof of originality.
