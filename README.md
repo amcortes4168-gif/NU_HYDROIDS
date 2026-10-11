@@ -1,4 +1,4 @@
-# NU HYDROIDS — MERN Starter
+# NU HYDROIDS
 
 A starter full-stack tournament platform for a school project. Includes:
 - Account registration/login (JWT)
